@@ -1,0 +1,6 @@
+2024/08/07 00:19:03 [error] 10392#2492: *1 CreateFile() "D:\nginx-1.27.0\nginx-1.27.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/08/07 01:07:18 [error] 10392#2492: *4 CreateFile() "D:\nginx-1.27.0\nginx-1.27.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/08/07 01:11:43 [emerg] 6864#12856: CreateFile() "D:\nginx-1.27.0\nginx-1.27.0/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2024/08/07 01:12:14 [emerg] 20920#20100: CreateFile() "D:\nginx-1.27.0\nginx-1.27.0/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2024/08/07 01:13:43 [emerg] 19148#18124: CreateFile() "D:\nginx-1.27.0\nginx-1.27.0/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2024/08/07 01:18:47 [emerg] 12424#21216: CreateFile() "D:\nginx-1.27.0\nginx-1.27.0/conf/nginx.conf" failed (2: The system cannot find the file specified)
